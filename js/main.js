@@ -1,7 +1,7 @@
 
 // 1. print something to console to ensure you linked
 // your js correctly to your html.
-console.log("JS linked!")
+console.log("js file successfully linked")
 
 // 2. select the "about" paragraph
 var aboutElement = document.querySelector("#about")
